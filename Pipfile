@@ -9,6 +9,7 @@ pandas = "*"
 bokeh = "*"
 jupyter = "*"
 requests = "*"
+mapboxgl = "*"
 
 [dev-packages]
 
