@@ -2,7 +2,7 @@
 
 This repository collects data from the [USGS API](https://earthquake.usgs.gov/fdsnws/event/1/) and analyzes the results with a variety of different techniques.
 
-The Jupyter notebook for this project, which contains the visualizations and explanations of relevant code, can be found [here](https://nbviewer.jupyter.org/github/simonbcodes/better-california-earthquakes/blob/master/California%20Earthquakes.ipynb)
+The Jupyter notebook for this project, which contains the visualizations and explanations of relevant code, can be found [here](https://nbviewer.jupyter.org/github/simonbcodes/global-earthquakes/blob/master/Global%20Earthquakes.ipynb)
 
 ## Installation
 
